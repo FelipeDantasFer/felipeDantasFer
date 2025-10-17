@@ -32,4 +32,4 @@ C++ e CMake (como estudos complementares)
 📍 Natal - RN
 💼 GitHub: FelipeDantasFer
 
-🔗 LinkedIn: [](https://www.linkedin.com/in/felipe-fernandes-a05a31234/)
+🔗 LinkedIn: [Felipe Fernandes](https://www.linkedin.com/in/felipe-fernandes-a05a31234/)
